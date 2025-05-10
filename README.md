@@ -13,4 +13,6 @@ Welcome to the Stripe API documentation. In this guide, you’ll learn how to se
      
 2. If you do not have an account, click on [Create account](https://dashboard.stripe.com/register) as shown in the screenshot below.
 
+      ![createaccount](https://github.com/user-attachments/assets/5367c4d1-8084-4f24-a309-e6d01f1c0026)
+
    
