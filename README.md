@@ -15,4 +15,6 @@ Welcome to the Stripe API documentation. In this guide, you’ll learn how to se
 
       ![createaccount](https://github.com/user-attachments/assets/5367c4d1-8084-4f24-a309-e6d01f1c0026)
 
+   - 
+
    
